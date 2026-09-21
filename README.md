@@ -1,5 +1,5 @@
 # ⏰ Digital Clock with Milliseconds
-Live - https://prince-kr-gupta.github.io/Digital-Clock/
+<p>Live - https://prince-kr-gupta.github.io/Digital-Clock/</p>
 A sleek, responsive, and visually stunning digital clock application built using semantic **HTML5**, modern **CSS3 Layouts (Flexbox/Grid)**, and native **JavaScript**. 
 * **High-Precision Timekeeping:** Displays hours, minutes, seconds, and precise milliseconds updating smoothly at a fast 10ms frame interval.
 * **Flawless Layout Alignment:** Utilizes a global `box-sizing: border-box` layout structure alongside exact `.padStart(3, '0')` string formatting to eliminate text wiggling and shaking layout bugs.
