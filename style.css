@@ -104,3 +104,33 @@
     line-height : 1;
     margin-bottom : 10px
 }
+.stopwatch-heading{
+    text-align: center;
+    margin-top : 440px;
+    color : #314595;
+}
+
+.stopwatch{
+    width : 500px;
+    margin : 20px auto;
+    text-align: center;
+    padding : 30px;
+    background: rgba(65,154,255,0.15);
+    border-radius: 10px;
+}
+.stopwatch-time{
+    font-size : 50px;
+    margin-bottom: 25px;
+}
+.buttons button{
+    padding : 10px 25px;
+    margin : 5px;
+    font-size : 18px;
+    cursor: pointer;
+    font-weight: 500;
+    border-color: #f41b75;
+    border-width: 2px;
+    border-radius: 10px;
+    box-shadow: #f41b75;
+    
+}
