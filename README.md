@@ -1,10 +1,11 @@
 # ⏰ Digital Clock
 
 A sleek, responsive, and visually stunning digital clock application built using semantic **HTML5**, modern **CSS3 Layouts (Flexbox/Grid)**, and native **JavaScript**. 
-* **High-Precision Timekeeping:** Displays hours, minutes, seconds, and precise milliseconds updating smoothly at a fast 10ms frame interval and having a Stopwatch.
+* **High-Precision Timekeeping:** Displays hours, minutes, seconds, and milliseconds updating smoothly at a fast 10ms frame interval and having a Stopwatch with milliseconds.
 * **Flawless Layout Alignment:** Utilizes a global `box-sizing: border-box` layout structure alongside exact `.padStart(3, '0')` string formatting to eliminate text wiggling and shaking layout bugs.
 * **Fully Responsive:** Centered dynamically using absolute coordinates (`transform: translate(-50%, -50%)`) making it scale flawlessly across devices.
 <p>Live - https://prince-kr-gupta.github.io/Digital-Clock/</p>
+
 ## 🛠️ Built With
 * **HTML5
 * **CSS3
